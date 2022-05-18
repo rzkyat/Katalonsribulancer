@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tanggal Pembayaran_datepicker__input__3Qe19</name>
+   <tag></tag>
+   <elementGuidId>2f7d8cc6-3081-4d5c-9410-05606bb9fb4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.datepicker__input__3Qe19</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div[2]/div[3]/div/div/div/div/div[2]/div[2]/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datepicker__input__3Qe19</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>12 April 2022</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>open_datepicker</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app__content&quot;]/div[1]/div[@class=&quot;text-center&quot;]/div[@class=&quot;p_vertical_10__j2-lG bg__1XRWW&quot;]/div[@class=&quot;container__2kyq9&quot;]/div[@class=&quot;m_horizontal__1eAK5&quot;]/div[@class=&quot;card__WevBR m_vertical_30__1zrjT&quot;]/div[@class=&quot;card__content__1nGvU&quot;]/div[@class=&quot;row__T1oHW&quot;]/div[@class=&quot;column__dx5gT  is-24__nJ4KP is-xl-12__3t1jt&quot;]/div[1]/div[@class=&quot;datepicker__container__14p1H&quot;]/div[@class=&quot;datepicker__wkDsD&quot;]/input[@class=&quot;datepicker__input__3Qe19&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/div[3]/div/div/div/div/div[2]/div[2]/div/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = '12 April 2022']</value>
+   </webElementXpaths>
+</WebElementEntity>

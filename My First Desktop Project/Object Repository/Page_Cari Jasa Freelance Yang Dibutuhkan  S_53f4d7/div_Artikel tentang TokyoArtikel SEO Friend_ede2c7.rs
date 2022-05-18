@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Artikel tentang TokyoArtikel SEO Friend_ede2c7</name>
+   <tag></tag>
+   <elementGuidId>6e3354f5-3203-4679-9c1d-47d09a7af516</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/section/div[5]/div/a/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.freelancer__portfolio__detail__2ZEw-</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>freelancer__portfolio__detail__2ZEw-</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artikel tentang TokyoArtikel SEO Friendly dengan tema Oleh-oleh/Barang dari Jepang.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app__content&quot;]/div[1]/div[@class=&quot;container__2kyq9&quot;]/div[@class=&quot;row__T1oHW&quot;]/div[@class=&quot;column__dx5gT  is-24__nJ4KP is-xl-18__c1tnm&quot;]/section[1]/div[@class=&quot;row__T1oHW&quot;]/div[@class=&quot;column__dx5gT  is-24__nJ4KP is-lg-12__1twm9 is-xl-8__1ToGA&quot;]/a[1]/div[@class=&quot;card__WevBR freelancer__1Ijy5&quot;]/div[@class=&quot;card__content__1nGvU&quot;]/div[1]/div[@class=&quot;freelancer__portfolio__1jc76&quot;]/div[@class=&quot;freelancer__portfolio__detail__2ZEw-&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/section/div[5]/div/a/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/following::div[15]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M. Hadid'])[1]/preceding::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Artikel tentang TokyoArtikel SEO Friendly dengan tema Oleh-oleh/Barang dari Jepang.' or . = 'Artikel tentang TokyoArtikel SEO Friendly dengan tema Oleh-oleh/Barang dari Jepang.')]</value>
+   </webElementXpaths>
+</WebElementEntity>

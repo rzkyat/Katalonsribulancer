@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Next_img success__37L1h freelancer__por_e95e07</name>
+   <tag></tag>
+   <elementGuidId>53b43e3e-994e-4b76-bba1-6a93b35b9f7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img.success__37L1h.freelancer__portfolio__image__2A1IO</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/section/div[5]/div/a/div/div/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img success__37L1h freelancer__portfolio__image__2A1IO</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://sribulancer-production-sg.s3.ap-southeast-1.amazonaws.com/attachment/9dd60221-305c-4286-8753-5072fbb64179.PNG</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>MEMBUAT WEB</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>MEMBUAT WEB</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app__content&quot;]/div[1]/div[@class=&quot;container__2kyq9&quot;]/div[@class=&quot;row__T1oHW&quot;]/div[@class=&quot;column__dx5gT  is-24__nJ4KP is-xl-18__c1tnm&quot;]/section[1]/div[@class=&quot;row__T1oHW&quot;]/div[@class=&quot;column__dx5gT  is-24__nJ4KP is-lg-12__1twm9 is-xl-8__1ToGA&quot;]/a[1]/div[@class=&quot;card__WevBR freelancer__1Ijy5&quot;]/div[@class=&quot;card__content__1nGvU&quot;]/div[1]/div[@class=&quot;freelancer__portfolio__1jc76&quot;]/div[@class=&quot;image__2RqTi&quot;]/img[@class=&quot;img success__37L1h freelancer__portfolio__image__2A1IO&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/section/div[5]/div/a/div/div/div/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='MEMBUAT WEB']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://sribulancer-production-sg.s3.ap-southeast-1.amazonaws.com/attachment/9dd60221-305c-4286-8753-5072fbb64179.PNG' and @alt = 'MEMBUAT WEB']</value>
+   </webElementXpaths>
+</WebElementEntity>

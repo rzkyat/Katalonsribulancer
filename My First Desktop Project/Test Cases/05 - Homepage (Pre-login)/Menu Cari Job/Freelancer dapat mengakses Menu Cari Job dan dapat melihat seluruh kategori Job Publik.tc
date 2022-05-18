@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Freelancer dapat mengakses Menu Cari Job dan dapat melihat seluruh kategori Job Publik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daf14943-f8e5-4c1d-beb1-9d560d1da19f</testCaseGuid>
+</TestCaseEntity>

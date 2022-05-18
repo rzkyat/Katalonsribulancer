@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Lihat Semua_profile__icon__selected__3h94X</name>
+   <tag></tag>
+   <elementGuidId>acbb0d03-0988-462d-8fc9-d290388f8a37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div[2]/div/div/div[3]/div[3]/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.profile__icon__selected__3h94X</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile__icon__selected__3h94X</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://sribulancer-production-sg.s3.ap-southeast-1.amazonaws.com/attachment/thumbnails/fb0911b4-53e6-406c-b275-c7a41da92441.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>profile avatar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>profile avatar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app&quot;]/header[@class=&quot;navbar__VR95z&quot;]/div[@class=&quot;navbar__main__3yIlp&quot;]/div[@class=&quot;container__2kyq9 navbar__main__container__3B-HI&quot;]/div[@class=&quot;navbar__main__content__2S9yI&quot;]/div[@class=&quot;navbar__main__nav__2rvp0&quot;]/div[@class=&quot;navbar__main__nav__item___W4hx [object Object]&quot;]/div[1]/div[@class=&quot;dropdown__132hE&quot;]/div[@class=&quot;dropdown__drop__3jDiY&quot;]/img[@class=&quot;profile__icon__selected__3h94X&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div[2]/div/div/div[3]/div[3]/div/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='profile avatar']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://sribulancer-production-sg.s3.ap-southeast-1.amazonaws.com/attachment/thumbnails/fb0911b4-53e6-406c-b275-c7a41da92441.png' and @alt = 'profile avatar']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://sribulancer-production-sg.s3.ap-southeast-1.amazonaws.com/attachment/thumbnails/8921af06-0124-42d2-9d87-246d96c395c9.png' and @alt = 'profile avatar']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://sribulancer-production-sg.s3.ap-southeast-1.amazonaws.com/attachment/thumbnails/dba972fa-c598-43b6-bb9f-427aaf326792.png' and @alt = 'profile avatar']</value>
+   </webElementXpaths>
+</WebElementEntity>

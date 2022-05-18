@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Client atau Freelancer melakukan login menggunakan username yang tidak terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>197d4257-0feb-4c40-8b8c-d18c29505ef1</testCaseGuid>
+</TestCaseEntity>
